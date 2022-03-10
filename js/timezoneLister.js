@@ -4,7 +4,7 @@
 // (needed in order to wait for json and deserialization)
 async function loadJsonAndDisplayUTC() {
     var list = document.getElementById('selUTC');
-    let rawData = await fetch('/timezones.json');
+    let rawData = await fetch('/json/timezones.json');
     let UTCs = await rawData.json();
     for (let timeOffset of UTCs) {
 
@@ -19,7 +19,7 @@ async function loadJsonAndDisplayUTC() {
 
     // load content from the url /products.json
     // (and wait until we have done so)
-    let rawData = await fetch('/cities.json');
+    let rawData = await fetch('/json/cities.json');
     // deserialize the json (wait for it)
     let tzs = await rawData.json();
   

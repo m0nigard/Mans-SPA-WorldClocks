@@ -59,7 +59,6 @@ document.querySelector('body').addEventListener('click', function (event) {
     // replace the content of the main element
     document.querySelector('main').innerHTML = content;
     // run the productLister function (in another file)
-    // if the route is '/partials/products.html';
     route === '/partials/favorites.html' && loadJsonAndDisplayUTC();
     route === '/partials/clock.html' && loadJsonAndDisplayTimezones();
     route === '/partials/clock.html' && setInterval(drawClock, 1000);
