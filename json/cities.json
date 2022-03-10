@@ -1,0 +1,203 @@
+[
+    {
+        "id": 1,
+        "Timezone": "Europe/Oslo"
+    },
+    {
+        "id": 2,
+        "Timezone": "Europe/Rome"
+    },
+    {
+        "id": 3,
+        "Timezone": "Europe/London"
+    },
+    {
+        "id": 4,
+        "Timezone": "Europe/Paris"
+    },
+    {
+        "id": 5,
+        "Timezone": "Europe/Tallinn"
+    },
+    {
+        "id": 6,
+        "Timezone": "Europe/Amsterdam"
+    },
+    {
+        "id": 7,
+        "Timezone": "Europe/Helsinki"
+    },
+    {
+        "id": 8,
+        "Timezone": "Europe/Stockholm"
+    },
+    {
+        "id": 9,
+        "Timezone": "Europe/Berlin"
+    },
+    {
+        "id": 10,
+        "Timezone": "Asia/Tokyo"
+    },
+    {
+        "id": 11,
+        "Timezone": "Asia/Bangkok"
+    },
+    {
+        "id": 12,
+        "Timezone": "America/Winnipeg"
+    },
+    {
+        "id": 13,
+        "Timezone": "America/Los_Angeles"
+    },
+    {
+        "id": 14,
+        "Timezone": "America/New_York"
+    },
+    {
+        "id": 15,
+        "Timezone": "America/Toronto"
+    },
+    {
+        "id": 16,
+        "Timezone": "America/Vancouver"
+    },
+    {
+        "id": 17,
+        "Timezone": "Asia/Dubai"
+    },
+    {
+        "id": 18,
+        "Timezone": "America/Phoenix"
+    },
+    {
+        "id": 19,
+        "Timezone": "America/Phoenix"
+    },
+    {
+        "id": 20,
+        "Timezone": "Asia/Istanbul"
+    },
+    {
+        "id": 21,
+        "Timezone": "Asia/Baghdad"
+    },
+    
+    {
+        "id": 22,
+        "Timezone": "Asia/Beirut"
+    },
+    {
+        "id": 23,
+        "Timezone": "Europe/Athens"
+    },
+    {
+        "id": 24,
+        "Timezone": "Europe/Bucharest"
+    },
+    {
+        "id": 25,
+        "Timezone": "Europe/Dublin"
+    },
+    {
+        "id": 26,
+        "Timezone": "Europe/Kiev"
+    },
+    {
+        "id": 27,
+        "Timezone": "Europe/Lisbon"
+    },
+    {
+        "id": 28,
+        "Timezone": "Europe/Madrid"
+    },
+    {
+        "id": 29,
+        "Timezone": "Europe/Monaco"
+    },
+    {
+        "id": 30,
+        "Timezone": "Europe/Moscow"
+    },
+    {
+        "id": 31,
+        "Timezone": "Atlantic/Reykjavik"
+    },
+    {
+        "id": 32,
+        "Timezone": "Asia/Qatar"
+    },
+    {
+        "id": 33,
+        "Timezone": "Asia/Jerusalem"
+    },
+    {
+        "id": 34,
+        "Timezone": "Europe/Brussels"
+    },
+    {
+        "id": 35,
+        "Timezone": "Europe/Isle_of_Man"
+    },
+    {
+        "id": 36,
+        "Timezone": "Europe/Jersey"
+    },
+    {
+        "id": 37,
+        "Timezone": "Europe/Luxembourg"
+    },
+    {
+        "id": 38,
+        "Timezone": "Europe/Riga"
+    },
+    {
+        "id": 39,
+        "Timezone": "Europe/Zagreb"
+    },
+    {
+        "id": 40,
+        "Timezone": "Europe/Vienna"
+    },
+    {
+        "id": 41,
+        "Timezone": "Europe/Malta"
+    },
+    {
+        "id": 42,
+        "Timezone": "Europe/Copenhagen"
+    },
+    {
+        "id": 43,
+        "Timezone": "Europe/Budapest"
+    },
+    {
+        "id": 44,
+        "Timezone": "Asia/Singapore"
+    },
+    {
+        "id": 45,
+        "Timezone": "Asia/Shanghai"
+    },
+    {
+        "id": 46,
+        "Timezone": "Asia/Kuala_Lumpur"
+    },
+    {
+        "id": 47,
+        "Timezone": "Asia/Hong_Kong"
+    },
+    {
+        "id": 48,
+        "Timezone": "Europe/Warsaw"
+    },
+    {
+        "id": 49,
+        "Timezone": "Europe/Belgrade"
+    },
+    {
+        "id": 50,
+        "Timezone": "Europe/Skopje"
+    }
+]
