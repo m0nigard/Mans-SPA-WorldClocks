@@ -1,9 +1,7 @@
-
 function addOwnCity() {
     var select = document.getElementById('selUTC');
     let value = select.options[select.selectedIndex].value;
     invertedValue = invertTimezone(value);
-    console.log("Inverted value" + invertedValue)
 
     city = document.getElementById('userInput').value;
 
